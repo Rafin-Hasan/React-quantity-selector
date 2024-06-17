@@ -1,2 +1,2 @@
-# React + Vite
+# Quantity selector using React redux
 
